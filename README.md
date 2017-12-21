@@ -4,7 +4,7 @@ This script for Google Apps Scripts automatically sends an email to Google Conta
 
 ## Installation
 
-The first thing is open Google Contacts application and create a group called *Example Group*. We add to this group all the contacts to which we want to send the email.
+The first thing is open Google Contacts application and create a group called *Example group*. We add to this group all the contacts to which we want to send the email.
 
 Then we opened Google Drive and created a new document of type *Google Apps Script*. If it does not appear in the list, we will give *More* and connect with more applications.
 
